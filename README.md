@@ -1,5 +1,5 @@
 # 자바스크립트 자료구조와 알고리즘 스터디
-
+- 2016.05.30 - 2016.09.03
 
 ### 멤버
 github ID  |  Name  | 타이핑챕터 | 담당챕터
@@ -21,7 +21,7 @@ hwangtan   | 황원준 | 12         | 14
 Name   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14
 :---:  |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
 김지혜 | O O | O O | O X | X O | O O | O O | X O | _ O | O O |  |  |  |
-남규진 | O O | O O | O O | O O | O O | O O | X O | s O | O O |  |  |  |
+남규진 | O O | O O | O O | O O | O O | O O | X O | s O | O O | O O | O O | O O | O |
 노준혁 | O O | O O | X O | X O | X O | X O | X O | _ O | X O |  |  |  |
 이병주 | O O | O X | O O | O O | O O | O O | O O | k O | O O |  |  |  |
 이창규 | O O | O O | O O | O O | O O | O X | O O | _ O | O O |  |  |  |
